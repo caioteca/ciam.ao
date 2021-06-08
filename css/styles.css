@@ -552,8 +552,8 @@ section#actions .grid-actions .action span {
 
 
 section#disk-saude {
-    height: 24.37008vw; /* 50vh */
-    background: #1151b4 url('../assets/fundo.png') no-repeat center/contain;
+    height: 33.37008vw;
+    background: #a9dee4 url(../assets/fundo.png) no-repeat center/contain;
 }
 
 
