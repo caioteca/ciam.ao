@@ -559,8 +559,7 @@ section#disk-saude {
 
 footer#bottom {
     min-height: 19.49606vw; /* 40vh */
-
-    background: #252525;
+    background: #fafafb;
 }
 
 footer#bottom > .content{
@@ -575,11 +574,11 @@ footer#bottom > .content{
 }
 
 footer#bottom .content a{
-    color: rgba(255, 255, 255, .7);
+    color: rgb(4 12 20);
 }
 
 footer#bottom .content div a:hover{
-    color: #fff;
+    color: #005086;
 }
 
 footer#bottom .content > div{
@@ -590,7 +589,7 @@ footer#bottom .content > div{
 }
 
 footer#bottom .content > div h2{
-    color: #ddd;
+    color: #005086;
     margin-bottom: 1.17371vw;
     font-size: 1.87793vw;
 }
