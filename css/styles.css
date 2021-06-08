@@ -18,6 +18,11 @@
     --red-dark: #a51731;
 }
 
+
+img {
+    backface-visibility: hidden;
+}
+
 .content {
     width: 90%;
     margin: 0 auto;
